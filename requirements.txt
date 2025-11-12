@@ -1,1 +1,31 @@
+# ==========================
+# Base
+# ==========================
+numpy
+pandas
+scikit-learn
+tqdm
 
+# ==========================
+# Deep Learning
+# ==========================
+torch
+transformers
+sentence-transformers
+
+# ==========================
+# Visualization / Debug
+# ==========================
+matplotlib
+seaborn
+
+# ==========================
+# Utils
+# ==========================
+scipy
+joblib
+
+# ==========================
+# Environment
+# ==========================
+ipython
